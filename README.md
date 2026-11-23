@@ -4,8 +4,6 @@
 
 An integrated undergraduate research and programming project investigating how linear algebra enables **visual similarity search, low-rank image approximation, and face-image retrieval**. The project combines an extensive literature-based research report with practical Python experiments, a reproducible software interface, mathematical explanations and an additional offline analysis of real input images.
 
-> **Project ownership:** Original student research and practical implementation by **Hannane Ahmadi (@hanahmdi)**. The GitHub-ready code and English documentation include subsequent cleanup and supplementary analyses. **Research coverage is not equivalent to implemented functionality.**
-
 ## Academic report (research + experiments)
 
 **The complete English academic technical report is the central document of this repository.** It integrates the original undergraduate research and practical submission with documented portfolio extensions, derivations, numerical tables, and clearly bounded conclusions.
