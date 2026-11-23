@@ -1,0 +1,5 @@
+rank,relative_frobenius_error
+5,0.21357
+15,0.116
+30,0.0745
+60,0.04251
