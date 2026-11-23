@@ -4,7 +4,7 @@
 
 An integrated undergraduate research and programming project investigating how linear algebra enables **visual similarity search, low-rank image approximation, and face-image retrieval**. The project combines an extensive literature-based research report with practical Python experiments, a reproducible software interface, mathematical explanations and an additional offline analysis of real input images.
 
-## Academic report (research + experiments)
+## Academic report 
 
 **The complete English academic technical report is the central document of this repository.** It integrates the original undergraduate research and practical submission with documented portfolio extensions, derivations, numerical tables, and clearly bounded conclusions.
 
